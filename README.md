@@ -8,7 +8,6 @@ Features
 🪑 Seat Availability Display
 💳 Payment Simulation
 🧾 Ticket Generation
-🎯 Concepts Covered
 Concept	Usage
 Arrays	Store seat data
 2D Arrays	Seat arrangement
